@@ -19,3 +19,5 @@ if(count == 20000 || errr==20000){
      })
 }
 respawn("http://alpidoveon.com/4/3587551")
+
+console.log("started this mf")
