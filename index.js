@@ -1,6 +1,6 @@
 var superagent = require("superagent")
 var count= 0
-var errr = 0
+var errr = 0 
 function respawn(url){
 if(count == 20000 || errr==20000){
     console.log("suc" , count)
